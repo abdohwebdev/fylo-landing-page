@@ -85,7 +85,7 @@ input[type="email"]{
         font-size: 10px;
     }
     section,footer,.navbar{
-        padding: 2rem 2rem;
+        padding: 4rem 2rem;
     }
     
     .hero .flex{
